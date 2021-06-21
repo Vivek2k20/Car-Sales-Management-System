@@ -8,4 +8,6 @@ Created in 3rd Semester in college during free time.
 #### 3. Keeps track of stock of available cars. Doesn't allow ordering of out of stock cars. 
 #### 4. Keeps track of name of customers and their orders. This can be modified to store more details of the customers and their orders. 
 
-### This code uses LINKED LIST to store the details and stock of available cars. Hence New cars and Details of old cars can be changed easily in the source code. It uses STACK concept to display Recently Ordered Cars and the details of the orders. It uses QUEUES to store the order details.
+### This code uses LINKED LIST to store the details and stock of available cars. Hence New cars can be added and Details of old cars can be changed easily in the source code. 
+### It uses STACK concept to display Recently Ordered Cars and the details of the orders. 
+### It uses QUEUES to store the order details.
